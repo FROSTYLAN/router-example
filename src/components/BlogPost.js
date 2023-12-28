@@ -22,4 +22,4 @@ function BlogPost () {
     )
 }
 
-export { BlogPost }
+export { BlogPost } 
